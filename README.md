@@ -1,1 +1,2 @@
 # cmj
+hi friends
